@@ -8,7 +8,7 @@ class Codechef
     public static void main(String[] args) throws java.lang.Exception
     {
         // your code goes her
-        Scanner sc = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in); 
         int T = sc.nextInt();
 
         for (int i = 0; i < T; i++) {
