@@ -8,7 +8,7 @@ class Codechef
     {
         // your code goes here
         Scanner sc = new Scanner(System.in);
-        int t = sc.nextInt();
+        int t = sc.nextInt(); 
         for (int i = 0; i < t; i++) {
             String p1 = sc.next().trim();
             // System.out.println(p1);
